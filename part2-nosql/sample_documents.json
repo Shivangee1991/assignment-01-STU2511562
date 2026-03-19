@@ -1,0 +1,43 @@
+[
+  {
+    "product_id": "E001",
+    "name": "Smartphone",
+    "category": "Electronics",
+    "price": 25000,
+    "brand": "Samsung",
+    "specs": {
+      "ram": "8GB",
+      "storage": "128GB",
+      "battery": "5000mAh"
+    },
+    "warranty_years": 1,
+    "available": true
+  },
+  {
+    "product_id": "G001",
+    "name": "Amul Taza",
+    "category": "Groceries",
+    "price": 40,
+    "brand": "Amul",
+    "expiry_date": "2024-12-20",
+    "nutrition": {
+      "fat": "3%",
+      "protein": "3.2g"
+    },
+    "tags": ["dairy", "daily_use"],
+    "available": true
+  },
+  {
+    "product_id": "F001",
+    "name": "Office Chair",
+    "category": "Furniture",
+    "price": 7000,
+    "material": "Wood + Cushion",
+    "dimensions": {
+      "height": "4ft",
+      "width": "2ft"
+    },
+    "colors_available": ["Black", "Brown"],
+    "available": true
+  }
+]
