@@ -1,4 +1,4 @@
-customers-- =========================
+-- =========================
 -- CUSTOMERS TABLE
 -- =========================
 CREATE TABLE customers (
